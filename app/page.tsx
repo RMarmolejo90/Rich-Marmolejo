@@ -18,6 +18,7 @@ import {
   SiReact,
   SiDjango
 } from "react-icons/si";
+import Project from "./components/project";
 
 export default function Home() {
   return (
@@ -53,15 +54,14 @@ export default function Home() {
           <SiDjango />
         </div>
       </IconContext.Provider>
-      <section>
+      <section className="py-10">
         <div>
-          <h2>Projects</h2>
-          <div>
-            
-            <h1>
-
-            </h1>
-          </div>
+          <Project 
+            image='/projects/richflix.png',
+            alt = 'a movie browsing app',
+            headline = "Richflix",
+            description = 'Richflix is a movie browsing app'
+          />
         </div>
       </section>
       </article>
