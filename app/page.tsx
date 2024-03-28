@@ -7,7 +7,7 @@ import {
   SiMongodb,
   SiDotnet,
   SiCsharp,
-  DiDjango,
+  SiDjango,
   SiJavascript,
   SiGithub,
   SiIbm,
@@ -16,11 +16,12 @@ import {
   SiTypescript,
   SiPython,
   SiReact,
-  SiDjango
 } from "react-icons/si";
 import Project from "./components/project";
 
+
 export default function Home() {
+
   return (
     <main className="w-screen h-full flex flex-col items-center justify-center">
       <header className="w-full min-h-full flex flex-col items-start justify-between py-10 p-4">
@@ -57,10 +58,12 @@ export default function Home() {
       <section className="py-10">
         <div>
           <Project 
-            image='/projects/richflix.png',
-            alt = 'a movie browsing app',
-            headline = "Richflix",
-            description = 'Richflix is a movie browsing app'
+            image='/projects/richflix.png'
+            alt = 'a movie browsing app'
+            headline = "Richflix"
+            description = 'Richflix is a movie browsing web application that enhances user experience through server-side rendering, built with TypeScript, React, and Next.js. It features user authentication to pave the way for future additions like watchlists. Designed with scalability and ease of updates in mind, it utilizes a modular architecture, including a "single source of truth", libraries, utility functions, and reusable components.'
+            github = 'https://github.com/RMarmolejo90/RichFlix'
+            url = 'https://richflix-phi.vercel.app'
           />
         </div>
       </section>
