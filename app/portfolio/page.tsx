@@ -13,6 +13,14 @@ const page = () => {
             github = 'https://github.com/RMarmolejo90/RichFlix'
             url = 'https://richflix-phi.vercel.app'
           />
+          <Project 
+            image='/projects/paytracker.jpg'
+            alt = 'a paycheck tracking app'
+            headline = "PayTracker"
+            description = "Use this web application to track your work hours and estimate your paycheck in real-time. Just set your pay rate, clock in, and watch how much money you are making while you're on the clock. It comes with a basic version for those who do not want to create an account, and a Pro version with user authentication that can save your work history and track your hours for you. Find more details in the 'About' page when you visit the website."
+            github = 'https://github.com/RMarmolejo90/PayTracker_v2'
+            url = 'https://paytracker.netlify.app/'
+          />
         </div>
       </section>
     </div>
