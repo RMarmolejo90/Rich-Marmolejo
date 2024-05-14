@@ -4,8 +4,8 @@ const page = () => {
   return (
     <div>
       <section className="py-10 flex flex-col items-center justify-center">
-        <h1 className="font-semibold text-4xl p-8">Portfolio</h1>
-        <div className="py-10">
+        <h1 className="font-semibold text-4xl p-4">Portfolio</h1>
+        <div className="py-10 lg:px-24">
           <Project 
             image='/projects/richflix.png'
             alt = 'a movie browsing app'
