@@ -3,8 +3,9 @@ import Project from "../components/project"
 const page = () => {
   return (
     <div>
-      <section className="py-10">
-        <div>
+      <section className="py-10 flex flex-col items-center justify-center">
+        <h1 className="font-semibold text-4xl p-8">Portfolio</h1>
+        <div className="py-10">
           <Project 
             image='/projects/richflix.png'
             alt = 'a movie browsing app'
