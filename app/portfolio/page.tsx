@@ -22,6 +22,14 @@ const page = () => {
             github = 'https://github.com/RMarmolejo90/PayTracker_v2'
             url = 'https://paytracker.netlify.app/'
           />
+          <Project 
+            image='/projects/TechVault_API.jpg'
+            alt = 'an API server'
+            headline = "TechPro API Server"
+            description = "I built this web server to boost company producivity for field technicians. The API uses a NoSQL Database to store and manage customer data. The API was designed to be scalable and follow REST practices to allow for integration with multiple client side applications and API networks. The API ensures that data is formatted and validated before processing through the database. This allows for better User Experience and better database management."
+            github = 'https://github.com/RMarmolejo90/Techpro-API'
+            url = 'https://github.com/RMarmolejo90/Techpro-API'
+          />
         </div>
       </section>
     </div>
