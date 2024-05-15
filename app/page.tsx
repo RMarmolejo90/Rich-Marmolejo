@@ -64,7 +64,7 @@ export default function Home() {
       </div>
       <section className="lg:p-6 p-3 grid gap-3 grid-rows-3 lg:grid-rows-none lg:auto-cols-max lg:grid-cols-3 m-3 w-full lg:justify-evenly">
         <a href="https://www.coursera.org/account/accomplishments/professional-cert/B7JCXJNT8A7W"  target="_blank" rel="noopener noreferrer">
-          <div className="flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
+          <div className="bg-blue-100 flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
             <IconContext.Provider value={{className:"text-5xl m-3"}}>
               <SiIbm />
             </IconContext.Provider>
@@ -75,7 +75,7 @@ export default function Home() {
           </div>
         </a>
         <a href="https://github.com/RMarmolejo90"  target="_blank" rel="noopener noreferrer">
-          <div className="flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
+          <div className="bg-blue-100 flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
             <IconContext.Provider value={{className:"text-5xl m-3"}}>
               <SiGithub />
             </IconContext.Provider>
@@ -86,7 +86,7 @@ export default function Home() {
           </div>
         </a>
         <a href="https://www.coursera.org/account/accomplishments/professional-cert/B7JCXJNT8A7W"  target="_blank" rel="noopener noreferrer">
-          <div className="flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
+          <div className="bg-blue-100 flex flex-row items-center justify-center rounded-xl border border-zinc-600 p-6">
             <IconContext.Provider value={{className:"text-5xl m-3"}}>
               <SiLinkedin />
             </IconContext.Provider>
