@@ -27,7 +27,7 @@ const Contact = () => {
                 </a>
               </td>
               <td className='px-2'>
-                <a className='hover:text-blue-600' href="tel:+14846309719">(484)630-9719</a>
+                <a className='hover:text-blue-600' href="tel:+14842380822">(484)238-0822</a>
               </td>
             </tr>
             <tr className='p-2'>
