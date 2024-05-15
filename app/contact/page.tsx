@@ -7,9 +7,9 @@ const Contact = () => {
   return (
     <div>
       <article className='flex flex-col items-center justify-center p-10 lg:px-20'>
-        <h1 className='font-semibold p-10 text-4xl'>Looking For A Developer?</h1>
+        <h1 className='font-semibold p-10 text-2xl lg:text-4xl'>Looking For A Developer?</h1>
         <div className='pt-10'>
-          <table className='text-2xl leading-10 tracking-wider py-10 text-blue-900'>
+          <table className='lg:text-2xl text-lg leading-10 tracking-wider py-10 text-blue-900'>
             <tr className='p-2'>
               <td className='px-2'>
                 <a className='hover:text-blue-600' href= "mailto: richardmarmolejo@gmail.com ?subject=Developer Portfolio Inquiry  &body=This email was generated from RichMarmolejo.com /n">
