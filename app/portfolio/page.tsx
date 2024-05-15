@@ -3,9 +3,9 @@ import Project from "../components/project"
 const page = () => {
   return (
     <div>
-      <section className="py-10 flex flex-col items-center justify-center">
+      <section className="py-6 flex flex-col items-center justify-center">
         <h1 className="font-semibold text-5xl p-4 uppercase tracking-widest">Portfolio</h1>
-        <div className="py-10 lg:px-24">
+        <div className="py-6 lg:px-24">
           <Project 
             image='/projects/TechVault_API.png'
             alt = 'an API server'
