@@ -6,7 +6,7 @@ const About = () => {
       <h1 className='md:p-10 p-4 font-bold text-2xl'>Full Stack Software Developer</h1>
       <p className='md:p-10 p-4'>I genuinely love writing great software. After taking the IBM Full Stack Developer course where I gained some insight into the world of microservices and containerization I changed as a developer. I find myself now focusing more on writing maintainable, modular, scalable code that supports User Experience and development lifecycles.</p>
 
-      <div className='lg:p-10 p-2 flex flex-row flex-wrap items-center justify-center lg:justify-evenly text-xl font-semibold'>
+      <div className='lg:p-10 p-2 flex flex-row flex-wrap items-center justify-center text-xl font-semibold'>
         <h2 className='lg:m-4 m-2'>React</h2>
         <h2 className='lg:m-4 m-2'>Next.js</h2>
         <h2 className='lg:m-4 m-2'>Typescript</h2>
