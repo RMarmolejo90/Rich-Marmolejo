@@ -6,8 +6,8 @@ import { DiGithub } from 'react-icons/di'
 const Contact = () => {
   return (
     <div>
-      <article className='flex flex-col items-center justify-center p-10 lg:px-20'>
-        <h1 className='font-semibold p-10 text-2xl lg:text-4xl'>Looking For A Developer?</h1>
+      <article className='flex flex-col items-center justify-center p-10 lg:px-20 mt-6'>
+        <h1 className='font-semibold md:p-10 p-2 text-2xl lg:text-4xl'>Looking For A Full Stack Developer?</h1>
         <div className='pt-10'>
           <table className='lg:text-2xl text-lg leading-10 tracking-wider py-10 text-blue-900'>
             <tr className='p-2'>
