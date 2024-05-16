@@ -34,6 +34,8 @@ const About = () => {
         <h2 className='lg:m-4 m-2'>Cloud Services</h2>
         <h2 className='lg:m-4 m-2'>GoLang</h2>
         <h2 className='lg:m-4 m-2'>UI/UX</h2>
+        <h2 className='lg:m-4 m-2'>MVC</h2>
+        <h2 className='lg:m-4 m-2'>ASP Web App</h2>
       </div>
     </div>
   )
