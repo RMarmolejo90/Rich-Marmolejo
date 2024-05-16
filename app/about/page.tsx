@@ -22,7 +22,7 @@ const About = () => {
         <h2 className='lg:m-4 m-2'>MongoDB</h2>
         <h2 className='lg:m-4 m-2'>Tailwind CSS</h2>
         <h2 className='lg:m-4 m-2'>Bootstrap</h2>
-        <h2 className='lg:m-4 m-2'>.NET Core</h2>
+        <h2 className='lg:m-4 m-2'>ASP.NET Core</h2>
         <h2 className='lg:m-4 m-2'>Express.js</h2>
         <h2 className='lg:m-4 m-2'>Node</h2>
         <h2 className='lg:m-4 m-2'>Python</h2>
