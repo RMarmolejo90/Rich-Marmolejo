@@ -22,12 +22,12 @@ const Contact = () => {
             </tr>
             <tr className='p-2'>
               <td className='px-2'>
-                <a className='hover:text-blue-600' href="tel:+14846309719">
+                <a className='hover:text-blue-600' href="tel:+14842430778">
                   {<MdPhone className='text-2xl'/>}
                 </a>
               </td>
               <td className='px-2'>
-                <a className='hover:text-blue-600' href="tel:+14842380822">(484)238-0822</a>
+                <a className='hover:text-blue-600' href="tel:+14842430778">(484)243-0778</a>
               </td>
             </tr>
             <tr className='p-2'>
